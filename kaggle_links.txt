@@ -1,0 +1,3 @@
+https://www.kaggle.com/hew123/leaf-annclf
+https://www.kaggle.com/hew123/leaf-comparing-ensemble
+https://www.kaggle.com/hew123/leaf-6classifiers
